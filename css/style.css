@@ -1,3 +1,10 @@
 body {
     color: brown;
+    background-color: black;
+}
+p {
+    color: blueviolet;
+}
+h2 {
+    font-size: 50px;
 }
